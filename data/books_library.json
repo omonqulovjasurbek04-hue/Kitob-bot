@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Odam bo'lish qiyin",
+      "author": "O'lmas Umarbekov",
+      "short_name": "odam_bolish_qiyin",
+      "pdf_file": "Odam bo'lish qiyin.pdf",
+      "added_date": "2026-03-26"
+    }
+  ]
+}
